@@ -1,1 +1,3 @@
 # UX
+
+Some JavaScript frameworks offer an overall design ethos, of how not only the UI should look and feel, but offer strong options of how a transaction is completed. Depending on your development needs, having a well designed and coherent design ethos will make it easier to rapidly provide an application which has a look and feel that is familiar and intuitive. In some cases though, your unique selling point might be the overall design of the application, providing a user experience that differentiates you in the marketplace. The ease of expressing a UX design would be of greater importance to you when providing a differentiated user experience.
